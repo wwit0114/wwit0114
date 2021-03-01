@@ -2,11 +2,11 @@
 
 ✔️ Website ✔️ Blockchain ✔️ Fintech ✔️
 
-I'm a senior website and blockchain developer with rich experience and deep knowledge.
-As a knowledgeable developer, I am always working with the latest frameworks and libraries and provide perfect results to clients under deep knowledge about IT science.
+I'm a senior website and blockchain developer with rich experience and deep knowledge.<br>
+As a knowledgeable developer, I am always working with the latest frameworks and libraries and provide perfect results to clients under deep knowledge about IT science.<br>
 Especially in the realm of blockchain and cryptocurrency products, I have accumulated many theoretical and practical experiences by conducting many projects.
 
-===== Areas of Expertise =====
+===== Areas of Expertise =====<br>
 ✔️ Website Development
 * HTML | CSS | Bootstrap
 * JavaScript (Vanilla JS | Jquery | React | Vue.JS | Angular / NodeJS | ExpressJS)
@@ -21,13 +21,12 @@ Especially in the realm of blockchain and cryptocurrency products, I have accumu
 * Exchange, Mining, Trading, Yield-Farming Platforms
 * Trading Automation & Frontrunning Bot
 
-✅ Immediately Start ✅ Finish In Time ✅ Free Fix Service ✅
+✅ Immediately Start ✅ Finish In Time ✅ Free Fix Service ✅<br>
 ✅ Fast Response ✅ Full time Work ✅ Not Outsourcing ✅
 
-I love my work and aimed for self-improvement as professional.
+My goal is to form a long-term relationship.
 
-⭐Have a Project in your Mind?
-⭐I will implement your great ideas to be live perfectly.
-⭐Contact me today wwit.llt@gmail.com and Join on Skype.
+Always, I believe in long-term business relationships and always provide high quality work at a fair price.<br>
+Contact me now with wwit.llt@gmail.com and Join Skype or Telegram.
 
 Kind Regards
