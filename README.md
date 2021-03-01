@@ -1,8 +1,8 @@
 <h2>⭐ Your success is our success! ⭐</h2>
 
-✔️ Website ✔️ Blockchain ✔️ Fintech ✔️
+✔️ Web ✔️ Blockchain ✔️ Fintech ✔️
 
-I'm a senior website and blockchain developer with rich experience and deep knowledge.<br>
+I'm a senior web and blockchain developer with rich experience and deep knowledge.<br>
 As a knowledgeable developer, I am always working with the latest frameworks and libraries and provide perfect results to clients under deep knowledge about IT science.<br>
 Especially in the realm of blockchain and cryptocurrency products, I have accumulated many theoretical and practical experiences by conducting many projects.
 
